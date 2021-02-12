@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding-top: 3%;
+    font-size: 40px;
+}
+h2{
+    padding-bottom: 3%;
+    font-size: 30px;
+}
+body {
+    font-family: 'EB Garamond', serif;
+    text-align: center; 
+}
+
+.heading{
+    margin-top: auto;
+    margin-bottom: auto;
+    align-items: center;
+    position: sticky;
+}
+.content{
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 4%;
+    align-items: center;
+}
+
+
+.mybtn{
+    background-color: #ffc14f;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 270px;
+}
